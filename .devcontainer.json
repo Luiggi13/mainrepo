@@ -1,0 +1,6 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/javascript-node",
+    "postCreateCommand": {
+        "trust-workspace": "git config --global --add safe.directory /workspaces/github-com-luiggi13-mainrepo"
+    }
+}
